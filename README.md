@@ -1,8 +1,8 @@
 # swipe-sample
 
-Sample copying Down dating app zapping view. You can swipe profiles up/down.
+Sample making a zapping view in iOS. You can swipe profiles up/down.
 
-https://github.com/pablogeek/swipe-sample/assets/1773546/8f4037a0-ba11-476d-b239-235b65e80f8a
+https://github.com/pablogeek/swipe-sample/assets/1773546/e707b6c2-6308-4da6-92e3-b983099b2fff
 
 Improvements needed
 
